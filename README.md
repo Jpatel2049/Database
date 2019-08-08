@@ -1,2 +1,2 @@
-# Database
-Checks to see user privileges in a database when given a TUID. 
+# Database-
+C program that reads in an id and checks which resources it has access to
